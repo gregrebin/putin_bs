@@ -1,3 +1,5 @@
+import time
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import re
@@ -19,6 +21,7 @@ if __name__ == '__main__':
             if match is None:
                 continue
             links.add(href)
+        time.sleep(3)
     file = open("links.txt", "a")
     for link in links:
         file.write(link + "\n")
