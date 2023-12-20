@@ -3,32 +3,52 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 
-def main(filename):
+def get_links(filename):
     file = open(filename, "r")
     links = file.readlines()
     file.close()
-    driver = webdriver.Chrome()
+    return links
+
+
+def setup_driver():
+    options = webdriver.ChromeOptions()
+    driver = webdriver.Chrome(options=options)
     driver.implicitly_wait(3)
+    return driver
+
+
+def download_text(driver, link):
+    driver.get(link)
+    text = driver.find_element(By.CLASS_NAME, "read__content").text
+    date = driver.find_element(By.CLASS_NAME, "read__published").get_attribute("datetime")
+    with open(f"content/{date}.txt", "a") as file:
+        file.write(text)
+
+
+def write_remaining(filename, links):
+    with open(filename, "w") as file:
+        for remaining in links:
+            file.write(remaining)
+
+
+def main(filename):
+    links = get_links(filename)
+    driver = setup_driver()
     i = 1
     total = len(links)
     for link in links[:]:
         try:
             print(link)
-            print(str(i) + "/" + str(total))
-            driver.get(link)
-            text = driver.find_element(By.CLASS_NAME, "read__content").text
-            date = driver.find_element(By.CLASS_NAME, "read__published").get_attribute("datetime")
-            with open("content/" + date + ".txt", "a") as file:
-                file.write(text)
+            print(f"{str(i)}/{str(total)}")
+            download_text(driver, link)
             links.remove(link)
             time.sleep(1)
             i += 1
         except (Exception, KeyboardInterrupt):
-            with open(filename, "w") as file:
-                for remaining in links:
-                    file.write(remaining)
+            write_remaining(filename, links)
             return
 
 
 if __name__ == '__main__':
     main("links1.txt")
+
