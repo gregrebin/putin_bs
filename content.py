@@ -2,6 +2,10 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+FILENAME = "links1.txt"
+HEADLESS = False
+PROXY = "162.248.225.230:80"
+
 
 def get_links(filename):
     file = open(filename, "r")
@@ -12,6 +16,10 @@ def get_links(filename):
 
 def setup_driver():
     options = webdriver.ChromeOptions()
+    if HEADLESS:
+        options.add_argument("--headless=new")
+    if PROXY:
+        options.add_argument(f"--proxy-server={PROXY}")
     driver = webdriver.Chrome(options=options)
     driver.implicitly_wait(3)
     return driver
@@ -50,5 +58,5 @@ def main(filename):
 
 
 if __name__ == '__main__':
-    main("links1.txt")
+    main(FILENAME)
 
