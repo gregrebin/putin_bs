@@ -12,22 +12,22 @@ def main(filename):
     i = 1
     total = len(links)
     for link in links[:]:
-        print(link)
-        print(str(i) + "/" + str(total))
-        driver.get(link)
         try:
+            print(link)
+            print(str(i) + "/" + str(total))
+            driver.get(link)
             text = driver.find_element(By.CLASS_NAME, "read__content").text
             date = driver.find_element(By.CLASS_NAME, "read__published").get_attribute("datetime")
-            with open("content/" + date + ".txt", "w") as file:
+            with open("content/" + date + ".txt", "a") as file:
                 file.write(text)
             links.remove(link)
-        except Exception:
+            time.sleep(1)
+            i += 1
+        except (Exception, KeyboardInterrupt):
             with open(filename, "w") as file:
                 for remaining in links:
                     file.write(remaining)
             return
-        i += 1
-        time.sleep(1)
 
 
 if __name__ == '__main__':
