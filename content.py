@@ -1,10 +1,11 @@
+import os
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 FILENAME = "links1.txt"
-HEADLESS = False
-PROXY = "162.248.225.230:80"
+HEADLESS = True
+PROXY = ""
 
 
 def get_links(filename):
@@ -55,6 +56,7 @@ def main(filename):
         except (Exception, KeyboardInterrupt):
             write_remaining(filename, links)
             return
+    os.remove(filename)
 
 
 if __name__ == '__main__':
