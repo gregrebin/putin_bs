@@ -1,0 +1,53 @@
+Events
+Meeting with Director General of Roscosmos Yury Borisov
+Vladimir Putin held a meeting with Director General of the Roscosmos State Corporation for Space Activities Yury Borisov.
+June 30, 2023
+20:05
+The Kremlin, Moscow
+3 of 5
+With Roscosmos General Director Yury Borisov.
+President of Russia Vladimir Putin: You probably noted that at yesterday’s ASI forum, they discussed the creation and use of a low-orbit satellite group – this is up to 200 kilometres, right?
+Director General of the Roscosmos State Corporation Yury Borisov
+: Yes.
+Vladimir Putin: There are problems primarily with the engine because they have to maintain this altitude.
+Yury Borisov: Yes, that’s right.
+Vladimir Putin: These are private companies. We talked about this recently, and you said it was necessary to involve private companies in this work – not this particular mission but outer space in general.
+What do you think about yesterday’s proposal? I know that the groundwork is done.
+Yury Borisov: Yes, Mr President. First, yesterday we immediately contacted Vyacheslav Tyomkin, the scientist from Sergiyev-Posad who is closely involved with PhysTech [Moscow Institute of Physics and Technology]. We know about his work, but we will still meet with him to discuss his research.
+He is correct in talking about today’s high interest in low orbits of 200 kilometres because optical resolution from this orbit and from 500 kilometres is different – it is better from 200 kilometres.
+However, there are objective difficulties with maintaining this orbit because at 200 kilometres the atmosphere is rarified and ballistic movement is completely different from what it is at 500 kilometres. So, we have to maintain a satellite’s orbit by using small plasma engines. There are also other problems at this altitude. Atomic hydrogen strongly affects the working capacity of solar batteries. These are basically the main problems. The task is not easy. However, we should thank this scientist for drawing your attention to this issue.
+We probably have indeed developed one of the world’s best competencies in building these engines. Our Fakel company in Kaliningrad is producing a broad range of these engines. There is a demand for them both in our country and abroad. Until recently, several Western companies were purchasing many of these engines. Thus, the OneWeb satellite group was established, in part, with the participation of the company that supplied engines to them.
+Now we have reoriented our exports due to the sanctions. There is high demand for these engines in the Asian countries, China, India and Africa. I will tell you separately about my visits to Africa.
+So, our colleague is absolutely right, and we will find an opportunity to support his research. He identified the issue and has rightly drawn your attention to it. We are working on it.
+Vladimir Putn: You wanted to report on a number of other issues. Please, go ahead.
+Yury Borisov: Mr President, first of all, I would like to report on the current condition of Russia’s satellites.
+So far, the 2023 launch programme is proceeding without disruption or postponement, which allows us to increase the Russian satellite constellation both in terms of quality and quantity. At present, there are 225 satellites. You will recall that I reported to you at our April 12 meeting that we have 185 satellites, which means we have seen both quantitative and qualitative growth in our constellation.
+In the past six months we have launched the Kondor Earth remote sensing radar satellite with a resolution of under one metre, which can monitor the Earth in any weather and time of day. It is very useful, in particular, for monitoring the ice situation on the Northern Sea Route. We can now receive information on ice conditions in real time.
+In the past six months we completed the formation of a geostationary satellite constellation for Roshydromet (Federal Service for Hydrometeorology and Environmental Monitoring), so we have no problem with weather forecasting now. Also, just recently, on June 27, we launched the Meteor satellite into a sun-synchronous orbit. This satellite includes a transponder for the Cospas-Sarsat search and rescue system, so we have now accomplished our international obligations with the launch of this satellite. We have two satellites with this equipment, and we recently tested the system jointly with our colleagues from the Transport Ministry. The system is operational, so everything has been completed in this regard.
+We support the GLONASS constellation which provides its respective precision data. In August, we are set to launch a new generation craft – the Glonass K2, which will have extended performance with improved precision technical specifications. This is a new page in the evolution of the GLONASS system.
+We are particularly looking forward to the launch of a research satellite: we are returning to the Moon after a 46-year break. We will launch the Luna 25 (Luna-Glob); this mission envisages landing in the Moon’s south pole area. No one has done that before as all previous probes have landed near the Moon’s equator. Of course, these missions always bear a risk; the probability of success for such a mission is globally estimated at around 70 percent. So, we are conducting intensive modeling to try to eliminate any possible unknowns during the mission. Of course, we believe it will succeed.
+Mr President, concerning public-private partnership, on June 27, in addition to the Meteor, we launched 39 small satellites designed by our private companies and universities. This was a serious step. Also, there were three satellites designed for Malaysia, the Republic of South Africa and Belarus – we continue to provide launch services for friendly nations.
+Mr President, I have been discussing the satellite constellation. I believe that by the end of the year we will fulfill our launch programme and significantly improve the conditions of our Earth remote sensing constellation which is really necessary today, as you know.
+We are working hard on designing the Russian orbital station. By Government decision, the operation of the Russian segment of the International Space Station has been extended through 2028, but we regret to state that after 2030 the station will obviously cease to exist in its current form – it will either be brought down into the ocean or reconfigured for other purposes.
+We are now facing a serious issue of continuing the Russian manned space flight programme. From 2024 on, we have to launch large-scale work on creating the Russian orbital station and complete the major part of this work by 2030 while the station is to be fully completed by 2032.
+Mr President, this is a rather expensive undertaking, and we have been constantly criticised by our colleagues from the financial and economic bloc, so we are trying to reach certain conclusions and are pursuing, as a priority, the effectiveness of our future steps to not only meet the interests of our research in near-Earth space but also to achieve practical results.
+We have expanded the pool of research programme participants: in addition to leading Roscosmos development facilities, Russian Academy of Sciences institutes are taking part in it, along with university researchers. We are also working with our colleagues from the Federal Medical and Biological Agency; we therefore hope the capabilities of the new station will surpass that of the ISS Russian segment by a fair amount.
+In our view, we shouldn’t suspend our manned programme lest we lose Russia’s unique competencies in this area, and we have probably accumulated more experience in this area than anybody else in the world. It is our experience that everyone uses.
+Vladimir Putin: Right.
+Yury Borisov: Mr President, I would like to say a few words regarding preparations for the Russia-Africa Summit. I recently was on a working visit to Egypt and Algeria. And just before that the Algerian president arrived in Russia on a state visit during which an intergovernmental agreement on space exploration was signed. As a follow-up to that agreement, we have held meetings with the heads of the national space agencies of the above countries, discussed their plans and told them about possible cooperation venues in practically all areas of space exploration. This certainly includes satellites – we already have much experience in working with those countries, we made Earth remote sensing satellites for them, and they are interested in more cooperation. We spoke about launching low-orbit multi-satellite constellations, on launching services and manned flights.
+I suggested they participate in the Russian orbital station, in a comprehensive way, not just training cosmonauts but possibly building national modules. I can say that our proposals were met with great interest. I hope that I and my colleagues will be able to fill the space session of the forum in St Petersburg with real projects.
+Vladimir Putin: Very well. This will be an interesting additional topic.
+Yury Borisov: Africa is a very promising continent, Mr President, and they are setting up the African Space Agency. The countries that have national space agencies decided to set up a united African agency, and we are now building up our relations with them. Premises for the agency are already under construction in Cairo, it will apparently begin full operations in 2024. And we are already beginning to work with the future agency.
+Vladimir Putin: Very good.
+Thank you.
+<…>
+Topics
+Industry
+Science and innovation
+Space
+Persons
+Borisov Yury
+Publication status
+Published in sections: News, Transcripts
+Publication date: June 30, 2023, 20:05
+Text version
