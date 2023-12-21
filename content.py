@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from fake_useragent import UserAgent
 from fp.fp import FreeProxy
 
-FILENAME = "links2.txt"
+FILENAME = "links3.txt"
 HEADLESS = True
 PROXY = True
 USER_AGENT = True
