@@ -2,10 +2,13 @@ import os
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from fake_useragent import UserAgent
+from fp.fp import FreeProxy
 
-FILENAME = "links1.txt"
-HEADLESS = True
-PROXY = ""
+FILENAME = "links2.txt"
+HEADLESS = False
+PROXY = True
+USER_AGENT = True
 
 
 def get_links(filename):
@@ -20,7 +23,9 @@ def setup_driver():
     if HEADLESS:
         options.add_argument("--headless=new")
     if PROXY:
-        options.add_argument(f"--proxy-server={PROXY}")
+        options.add_argument(f"--proxy-server={FreeProxy(google=True, rand=True).get()}")
+    if USER_AGENT:
+        options.add_argument(f"--user-agent={UserAgent().random}")
     driver = webdriver.Chrome(options=options)
     driver.implicitly_wait(3)
     return driver
