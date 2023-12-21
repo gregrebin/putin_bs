@@ -7,7 +7,7 @@ from fp.fp import FreeProxy
 
 FILENAME = "links3.txt"
 HEADLESS = True
-PROXY = True
+PROXY = False
 USER_AGENT = True
 
 
