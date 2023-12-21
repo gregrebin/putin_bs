@@ -6,8 +6,8 @@ from fake_useragent import UserAgent
 from fp.fp import FreeProxy
 
 FILENAME = "links2.txt"
-HEADLESS = False
-PROXY = True
+HEADLESS = True
+PROXY = False
 USER_AGENT = True
 
 
