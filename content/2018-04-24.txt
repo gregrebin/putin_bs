@@ -1,0 +1,40 @@
+Events
+Working meeting with Deputy Prime Minister Dmitry Rogozin
+Vladimir Putin had a working meeting with Deputy Prime Minister Dmitry Rogozin, who briefed the President on the development of navigational/data-exchange technologies of the GLONASS global navigation satellite system.
+April 24, 2018
+14:30
+Novo-Ogaryovo, Moscow Region
+1 of 4
+With Deputy Prime Minister Dmitry Rogozin.
+President of Russia Vladimir Putin: Mr Rogozin, you wanted to discuss the GLONASS
+system’s ground-based components. Go ahead, please.
+Deputy Prime Minister Dmitry Rogozin
+: Mr President, I would like to hand you this presentation.
+First, I would like to say a few words about the space segment, which has attained its design parameters. It consists of 24 spacecraft, including 23 older-generation GLONASS-M satellites and one new-generation GLONASS-K satellite. We also have one reserve spacecraft in orbit. We have six spacecraft on the ground; if necessary, we can expand this segment right away and launch the required number of satellites.
+There are plans to launch the more accurate new-generation GLONASS-K2 satellites with improved mathematical parameters starting in 2019. We are working on the task you set to improve the quality of navigational signals.
+Vladimir Putin: How long will they stay in orbit?
+Dmitry Rogozin: Although their service life is seven years, they can operate longer. Therefore, the number of ground-based spacecraft is quite impressive, and there is no need to change anything so far.
+Regarding ground-based spacecraft, you told us a year ago that we must actively utilise the GLONASS cluster’s potential in the civilian economic sector. I would like to report on this.
+The Russian satellite navigation equipment market was worth 2.4 billion rubles in 2015. Last year it reached as much as 15 billion rubles. Thus, the market is growing fairly quickly. At present, in Russia differential correction systems are installed in 107 airfields out of 182, 43 seaports out of 67, and 33 on inland waterways.
+This year we will fully equip all seaports in Crimea with these systems. Do you remember how you criticised us for lagging behind in GPS? We have caught up with this backlog and will not have it anymore.
+Likewise, priority measures were taken on the Northern Sea Route. In all, 8,791 ships, including over 2,000 sea vessels, are fitted out with the GLONASS navigation equipment. All ships and vessels that operate in our basin have this equipment, as well as 670 aircraft, 113 of which are foreign.
+Mr President, I would like to say the following in this context. When we introduced the ERA-GLONASS system, a law was adopted according to which all vehicles imported to Russia after a certain date, should be equipped with these systems, modules and chipsets. Today our airlines have over 600 foreign aircraft. I would like to suggest making the requirement that if a plane is bought by a Russian airline, it is obligatory for it to have this module.
+Vladimir Putin: You mean that the manufacturer should install these systems?
+Dmitry Rogozin: Of course. After all, it is not such a big issue but it is important for us. What is the point for us to equip our airports with GLONASS if aircraft are not equipped with this system?
+Vladimir Putin: You are absolutely right.
+Dmitry Rogozin: Furthermore, over 1.8 million cars in the Russian Federation have been equipped with the ERA-GLONASS systems. By the end of the year this figure will increase to 3.5 million cars.
+Some 838,000 emergency calls were received and processed. In over 10,000 cases prompt response was made, which means that hundreds of human lives were saved. We both know the meaning of the notion “golden hour” – the quicker aid is rendered, the better the chance of saving lives. This is why we are actively introducing these systems.
+Joint Stock Company GLONASS, which is a federal operator of these systems is fully owned by the state. I would also like to tell you that state financing will end this year because this organisation will become self-sufficient. This is very important because it highlights the success of commercialisation opportunities offered by Russian orbital systems.
+I would also like to tell you that we consider the combination of the ERA-GLONASS, Safe City and System-112 to be technically compatible. These will be nationwide call centres with equal opportunities to switch from Safe City to Smart City. In other words, GLONASS will also be introduced in this technology.
+Vladimir Putin: This is what should be done, considering the positive results that the introduction of GLONASS has produced in preventing traffic accidents. As far as I see from the submitted documents, death rate from traffic accidents has decreased by 32 percent.
+Dmitry Rogozin: That is absolutely right.
+Vladimir Putin: This is a very serious achievement and this is the way to go.
+<…>
+Topics
+Telecommunications
+Persons
+Rogozin Dmitry
+Publication status
+Published in sections: News, Transcripts
+Publication date: April 24, 2018, 14:30
+Text version
