@@ -34,4 +34,51 @@ February 27, 2020
 Publication status
 Published in sections: News, Transcripts
 Publication date: March 2, 2020, 15:00
+Text versionEvents
+Meeting with Sberbank CEO German Gref
+The discussion focused on Sberbank’s performance in 2019 and its current operations.
+March 2, 2020
+13:45
+The Kremlin, Moscow
+1 of 3
+With Sberbank CEO and Chairman of the Management Board German Gref.
+President of Russia Vladimir Putin: Mr Gref, let us talk about your company’s performance. Let’s start with this.
+Sberbank CEO and Chairman of the Management Board German Gref
+: Yes, Mr President, I am ready.
+Last year was a good one for us. We reported hefty profits. We have only reviewed our performance according to Russian accounting standards, under which our profits amounted to 860 billion rubles after taxes. Our profits according to IFRS are still being calculated because this indicator includes all companies of the group. Our profits in January 2020 amounted to 80 billion rubles after taxes. This is the result of hard work, cost saving and the introduction of new technology.
+Vladimir Putin: Have your profits increased year on year as well?
+German Gref: Yes, by 14 percent.
+We can report this result even though the corporate loan portfolio either did not grow at all or grew only very slightly. Taking into account the ruble exchange rate, our portfolio of loans to corporates has decreased by approximately 1.5 percent.
+Loans to private individuals are growing rather well. Overall, we continue to expand the range of services to our customers, and on the whole, the services we offer within our ecosystem contribute more and more to our customers’ development. The portfolio of our loans to private individuals increased by 18.5 percent last year.
+We are investing a great deal of effort in the creation of new services for legal entities. All the hard work we have put into creating digital services has helped boost the fee income on our operations with both private individuals and corporates.
+Over the past year, we improved the quality of our assets, the situation with overdue debt became much better, and the cost of risk decreased. Most importantly, we are increasing the number of our individual customers. Our individual customers grew by three million people over the past year.
+And we set ourselves a separate task, to enter the youth market, and now every second young person is our client. This is a very important shift, because before we were more of a bank for adults, but now young people also choose us.
+We built a loan machine, as we call it, a loan factory, and last year we began to extend loans to legal entities on standard products in seven minutes. This is a huge breakthrough, because previously this process took months.
+Today, we already extend about 20 percent of our loans to medium- and small-sized businesses in automatic mode in seven minutes. We want to increase this share to about 80–90 percent, and we believe that it will grow up to 100 percent by 2023. Today, 98 percent of individuals in our country receive loans based on automated decisions, and 70 percent is the figure we are striving for in terms of legal entities. Thirty percent of transactions will remain complex, they will still require human involvement.
+But, of course, this is a big breakthrough in productivity and speed, and entrepreneurs can choose a loan term and a product using our Sberbank Business Online app. This certainly makes it much easier, as there is no need to go anywhere, no need to wait in lines, no need to talk with the bank staff. If needed, there is a video chat, where you can always discuss any question with a customer service manager.
+Last year, Mr President, we had two events that were of utmost importance for us. We completed our platform and it turned out to be of the highest quality. We believe that in terms of quality it is not inferior to most cutting-edge platforms that companies like Microsoft, Google, Amazon or Alibaba have. And we understand that we can put this platform on the market for our customers. We have established SberCloud, a subsidiary capable of providing its services in our “cloud”, with our cybersecurity and our very own platform to a practically unlimited number of customers.
+We have launched a joint venture with Moscow Mayor Mr Sobyanin
+and the city of Moscow, and the first service in December (issuing of a hunting permit) was based on the new platform. We have tested it and it proved much more user-friendly and faster than traditional methods. The most important thing that we agreed upon is that all the services done jointly with the city of Moscow will be available for other regions, free of charge.
+Vladimir Putin: Issuance of hunting permits is not among direct functions of a banking institution.
+German Gref: No, Mr President, we do not actually issue the permits themselves. Naturally, our job is to provide the Moscow Government with a complete range of tools. We established a joint venture that owns the Moscow “cloud.” Our task is technological and methodological: we help the Mayor’s Office staff who are dealing with it, to facilitate and arrange the relevant process.
+Vladimir Putin: Anyway, is the Mayor’s Office satisfied with the cooperation?
+German Gref: Mr President, I think you had better ask Mr Sobyanin. It is hard for me to speak for my partner. Of course, it seems to us that both sides are happy. But most important of all is that it makes the process easier and less costly, and it is a super modern platform, unparalleled in this country. It saves a huge amount of money and time and enables us to create all kinds of platforms.
+We are already trying out a school platform based on this one in 15 schools. This year we decided to make a platform for universities and are launching this work together with the Moscow Institute of Physics and Technology.
+Olga Golodets
+has joined our team, and we have agreed that we will, most likely, develop a platform for medical institutions together with the Skolkovo Institute of Science and Technology. In effect, it is possible to build just about anything on this basis. At the same time, of course, we will not be creating medical or healthcare services, etc., all on our own. We will deal with engineering aspects, provide cloud storage, all tools and methodological support. They will do the rest with the help of our engineers.
+Vladimir Putin: As far as I understand, you have virtually accomplished what your foreign partners offered to do.
+German Gref: Mr President, this is the result of six-year investment projects. We had 23,000 engineers working to create this platform. Unfortunately, owing to substantial geopolitical risks, we cannot permit a situation when someone might disconnect all services. Therefore, we decided to set up a new platform in 2014. Today, it provides us with entirely new capabilities, it is flexible and much more reliable, and we can create services within two weeks. Most importantly, the so-called microservice platform services are not inter-linked, and, if one service fails, the rest of the platform remains absolutely independent. This is not possible in traditional architecture when the entire platform loses its functionality.
+We are now testing it together with the Government because the Government has just about the same criteria as the banking business does – reliability, data protection, and the cost and speed of creating various services. In this sense, we serve as a foundation for constructing any building. And this is a ready-made and modern Russian foundation.
+We have set up a factory for training operators for this platform. Sergei Sobyanin, Maxim Oreshkin
+and I watched how these people are trained. Every year, we train 5,000 people who learn how to use our tools during a 4-week training course. This is, of course, an ultra-modern factory.
+Vladimir Putin: Good, congratulations.
+German Gref: Thank you very much.
+<…>
+Topics
+Banks
+Persons
+Gref German
+Publication status
+Published in sections: News, Transcripts
+Publication date: March 2, 2020, 13:45
 Text version

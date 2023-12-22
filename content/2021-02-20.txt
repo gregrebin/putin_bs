@@ -1,0 +1,47 @@
+Events
+Meeting with Head of Roscosmos Dmitry Rogozin
+General Director of the Roscosmos State Corporation for Space Activities Dmitry Rogozin reported to the President on the corporation’s performance in 2020 and plans for the near term.
+February 20, 2021
+10:00
+The Kremlin, Moscow
+1 of 3
+With General Director of Roscosmos State Corporation Dmitry Rogozin.
+President of Russia Vladimir Putin: Mr Rogozin, let us have an in-depth discussion on the corporation’s performance in 2020. The issues we will discuss include carrier rocket launches, the state of the orbital group, your plans, fundamental space research, and, of course, the financial indicators. Please, go ahead.
+General Director of Roscosmos Dmitry Rogozin: Mr President, last year we posted good results overall. For a second year running since 1993, there were no accidents. This is certainly a positive indicator – I hope we will continue in the same manner – of improved discipline in the sector as a whole and the reliability of our rocket and space technology.
+We have launched 17 space mission rockets, and the Defence Ministry launched seven combat missile systems. This is 24 launches altogether, and all of them were successful. Many launches have been postponed until this year, mostly the commercial missions of our partners who stopped their production facilities in Europe last spring, and so we had no payload to launch. But we will complete these missions this year.
+Vladimir Putin: How many launches did you complete?
+Dmitry Rogozin: Seventeen plus seven.
+Vladimir Putin: And how many do you plan this year? 29?
+Dmitry Rogozin: We plan to launch 29 space missions alone. This is because of the missions we could not accomplish last year.
+Moreover, we plan to complete several important missions. For example, we will resume a lunar exploration programme after a 45-year pause. In October, a Luna-25 moon lander will be launched from the Vostochny Space Launch Centre. And after that, as you are aware, we will increase robotic Moon studies, to be followed by a manned mission, which I will report on today.
+Next, we will send two modules to the ISS. They have already been delivered to Baikonur. We are completing their electricity tests and plan to launch the largest of them, the Nauka multipurpose lab module, in May.
+One of the important launch missions is, of course, the ongoing trials of the Angara carrier rockets. As you know, we resumed their flight trials in December. We have ensured all the technical specifications the state customer wants. This year, we plan to launch one heavy-duty and two light Angara rockets. We will subsequently increase the number of launches. In this context, we are expanding the production at our Polet facility in Omsk, where serial production of the Angara rockets should start in 2023, meeting the requirements of both the Defence Ministry and Roscosmos for these heavy carrier rockets.
+Another important mission planned for this year is the launch of a space-borne imaging radar. This is our first radar project. To see how important this is, just take a look at the Northern Sea Route. Rosatom is developing the NSR as an operator, and we view it as a unique transit route. However, to be able to use its eastern part from Yamal to the Pacific Ocean, we must see everything that takes place there. There are extremely dense fogs in that region, and so traditional remote Earth probing satellites cannot reliably monitor the ice situation there. But a space-borne radar can detect the smallest detail round the clock, in winter or dense fog. We are actually creating navigation maps for the captains of our icebreakers escorting cargo ships, who will be able to use them to choose the best route in real time.
+Therefore, I believe that we are going to have a very busy but also very interesting year in this sense.
+We have definitely approached the start of a new manned programme. The Orel spacecraft, which I have reported to you about, is a new strategic manned mission that can deliver up to four persons to the Moon. We will start its static tests right away, in February. In other words, it has been fully assembled, in metal, and we are working on the test programme.
+The socioeconomic orbit group comprises 89 spacecraft. This year we started introducing new GLONASS satellites.
+Vladimir Putin: How many of them do you have in orbit?
+Dmitry Rogozin: We have 28 GLONASS craft, 23 of which are in orbit, with the rest either undergoing tests under the supervision of the chief designer, or having been put on standby. When a satellite’s service time runs out, the one on standby takes over.
+And the last spacecraft of the previous generation, GLONASS-M, is on earth. The GLONASS-K2 and GLONASS-K vehicles have an increasing share of Russian-made electronics. Mr President, just as I promised, by 2025 our GLONASS vehicles will be 100 percent Russian-made, as stipulated in the import substitution programme.
+Vladimir Putin: And their service time will increase.
+Dmitry Rogozin: Yes, of course, up to 15 years, at the least. As it is, they are even now working longer than their service time. This is good. As I said, if one of them shuts down, we have stand-by vehicles on the ground and in orbit, but these aircraft have proved to be extremely reliable.
+Vladimir Putin: What about their accuracy?
+Dmitry Rogozin: Their accuracy is 2.6 metres, and they cover 100 percent of the Earth’s surface. Of course, they show better results in the northern hemisphere, because the group has been configured like this, but the new-generation GLONASS-K2 satellites and the development of ground-based infrastructure, that is, signal calibration systems, will allow us to improve accuracy to 1.3 metres in the next few years. This is good.
+Vladimir Putin: This is very important for transport, especially for maritime transport.
+Dmitry Rogozin: Yes, this is very important. Mr President, it is extremely important that all types of vehicle, including aircraft and maritime transport, brought into Russia in any possible way, be it leasing or purchase, are equipped with the GLONASS system.
+Vladimir Putin: Tell me about your financial performance.
+Dmitry Rogozin: Our financial results are as follows: the cash execution of the budget is 94 percent, and execution of the state defence order, 100 percent. By and large, we are gradually decreasing our overdue receivables. Overall, our revenue was roughly the same as the year before, but our revenue due to output diversification has increased dramatically. The delivery of power equipment produced at our plants has almost doubled to 12 billion rubles. In other words, we are not selling the surplus of our production – we repurpose such production, just as you instructed. In fact, acting within the framework of the anti-sanctions policy, we now deliver pump turbines and various reinforcing bars to Gazprom and Gazprom Neft, gas compressor units to the Amur Gas Processing Plant, and so on. This important project is proof of our diversification and the sector’s development as a whole.
+Of course, I would like to say the following about our engine manufacturer Energomash, especially since you have recently visited Khimki to open a transport interchange there, for which I am deeply grateful because it was really a request of the Energomash staff. So, Energomash as a holding company manufactures a large number of power units for our oil and gas producers.
+Vladimir Putin: What about your project in Moscow?
+Dmitry Rogozin: The [National Space Centre] project in Moscow is ongoing, and I am ready to take you on a tour any time. We are already building walls, that is, construction has reached the above-ground level. We will start building the main facility soon. In principle, the Moscow authorities promise to complete construction in late 2022 or 2023, and the final touches will be made in 2024, when we will settle down in the National Space Centre. I am especially grateful to the Moscow Government for building transport interchanges, opening new metro stations and building bridges across the Moskva River to prevent traffic chaos.
+We are planning to move 8,000 workers from the Khrunichev Centre to the new building. At long last, the Salyut Design Bureau will have not just jobs but high-tech work places for doing their highly skilled jobs. I am actually dreaming about that day. My colleagues have asked me to thank you for approving this project. In addition, 12,000 workers from our other leading design bureaux in Moscow will move into the new building as well. As for the 90-hectare plot that has been left unused for a long time, we are building a technopark there. It is our joint venture with Moscow, which Roscosmos has joined on your instructions and where we now hold a controlling stake. The Moscow companies that are working for the aerospace sector will be located in the park with all the incentives and bonuses approved by the Moscow authorities.
+Vladimir Putin: Good.
+<…>
+Topics
+Space
+Persons
+Rogozin Dmitry
+Publication status
+Published in sections: News, Transcripts
+Publication date: February 20, 2021, 10:00
+Text version
