@@ -1,0 +1,46 @@
+Events
+Working meeting with Rostelecom President Sergei Kalugin
+Rostelecom head briefed the President on the company’s performance in 2015.
+December 28, 2015
+15:15
+Novo-Ogaryovo, Moscow Region
+2 of 2
+With Rostelecom President Sergei Kalugin.
+President of Russia Vladimir Putin: Mr Kalugin, what good news do you have?
+President of Rostelecom Sergei Kalugin: Our entire team is currently focused on resolving three main challenges. We are strengthening our market positions, building up our technical infrastructure, increasing the efficiency – labour productivity, in the first place, and creating the basis for developing enterprises in new segments.
+Our 2015 performance results are quite positive. We continue to be the first in terms of basic services, so our market share is growing gradually.
+Vladimir Putin: What is it now?
+Sergei Kalugin: We hold 69% of the market as a telephony operator, 37% as internet provider, and 27% as pay TV provider. Our competitors are falling behind us two- to three-fold. And it is very important that our internet is not only good, but is also fast and inexpensive.
+Our company is implementing a whole range of projects, primarily in the state’s interests. Our last major project was installing a fibre optic communication line (FOCL) between Sakhalin and Magadan, 900 kilometres under water. It was a very complex project in technological terms. Overall, we succeeded. Next year, we will build this kind of communication line between Sakhalin and Petropavlovsk-Kamchatsky, then we will continue toward the Kuril Islands. This way, the residents of the Far East will have an Internet connection that meets the highest global standards, with high speed and low prices.
+Vladimir Putin: What are the construction deadlines?
+Sergei Kalugin: I think that we will certainly reach Kamchatka next year. As for the Kuril Islands, the design work is already underway, so we hope that we will resolve this problem in a couple years, if there are no problems.
+Following your instructions, we are resolving the issue of eliminating the digital divide, constructing FOCLs to small localities. We were supposed to install 200,000 kilometres of lines in five years, and we have already constructed 20,000, so we carried out 144% of this year’s plan. Thus, residents of small towns have the opportunity to use Internet and TV services just like residents of large cities. This is a highly important project.
+Vladimir Putin: The cities where these lines reach.
+Sergei Kalugin: Yes, but although the Finance Ministry’s funding is not very systematic, we are still ahead of target, using our own resources.
+Following your instructions, we are building a system that allows federal data to be stored in special protected data centres; we have created the first data centre with Rosenergoatom. This will probably be the largest data centre in Europe. The first stage will feature 4,800 racks (ultimately, there will be up to 8,000). And this is good as today people talk a lot about the law on personal data that has been passed, but we will offer such economic conditions that will make keeping the data in Russia advantageous.
+Vladimir Putin: This is a very important project.
+Sergei Kalugin: Modern technologies allow us to not only build data centres, but also, using relatively simple processors on the one hand, and Russian software on the other, to make this system resistant to external influences. So we are gradually resolving this problem.
+This year, we continued to develop the Electronic Government and I am happy to notethat its user base has grown by 63%. In other words, citizens understand that it is convenient and comfortable to use. Thus, the quality of public services is improving.
+This year, we participated in a video monitoring project during the National Final School Exam (EGE), connecting 60,000 locations simultaneously. I think the Education Ministry is pleased, because all the exams were under control.
+We are also implementing another major public project related to Safe City programme, and we are investing both public funding and our own. In other words, we are helping the regions resolve this problem more quickly because we are investing together with them. That project is also gradually moving forward.
+We began working on a very important issue two years ago, when we analysed the quality of our network and understood that it has a lot of foreign equipment – we engaged in import replacement. Right now, the share of Russian equipment in our purchases is already at 30%. And what’s very important is that we try to purchase the key elements of our network from Russian companies – in other words, our infrastructure is becoming significantly more stable.
+Just a few words about how we are implementing the decision by the board of directors, which adopted our strategy of technical leadership several years ago. We have connected 30 million households to our FOCLs – in other words, we have practically 60% of all residential buildings in Russia connected – and we are working on our operational efficiency and customer services.
+There was an enormous amount of work pertaining to increasing the quality of customer service. For us, as a company with significant state participation, this was a serious problem until recently. Now, we have radically improved our indicators and are working at the level of the highest market standards.
+We are giving a great deal of attention to improving our efficiency, because the Government and Presidential Executive Office have set that objective for us. But it is also a great pleasure for us to do it, and I am very happy to report that, for example, the cost of connecting one household (which is very important technically for our companies) has fallen in the last three years from 7,500 rubles to 2,500. This is due to competitive procurements and the fact that we are trying to conduct all tenders more effectively. We are working with the personnel, revenue is growing, but salaries are gradually growing, too.
+And it is very important that we have launched a housing programme in our company. In other words, we provide subsidies to people for building housing.
+Vladimir Putin: What is the average salary? Around 40,000?
+Sergei Kalugin: Our average is currently 39,000 rubles. We are increasing salaries, but not for the top managers that are already living well; it is primarily for those people who are working in our line divisions. And as a result, the employee turnover was almost eliminated last year. So people are not leaving us; we fire out only those who do not want to work.
+We are gradually transforming into a digital services provider. A large portion of our income now originates from digital services. And we are seeking out new segments for development based on the advantages we already have.
+Here is what we see for ourselves. We want, first and foremost, to go into geo-data services, into the “cloud.” To do this, we are purchasing equipment and entering various partnerships. Our latest purchase was the IQMen company. This is a company created by a Russian leader in the field of artificial intelligence, and it allows us to very closely monitor the situation on the Internet, in closed networks. It is mainly used by banks and special users.
+I do not want to dwell on this slide, but I will simply say that we are systematically rebuilding our network, making sure it remains virtual and as simple as possible. Thus, we hope to reduce our network spending (which is the foundation of our company) by 30%.
+And finally, I would like to tell you that in addition to the traditional segments, we are working very actively toward commercial or industrial Internet, what’s called the Internet of Things. In general, it is important to create technological advantages that will work for a long time. This is currently the most rapidly developing segment, and it is effective for both the growth in labour productivity and energy reduction, which is very important as this global market will be worth several trillion dollars in a few years. If we take up a position there, we will have good earnings. This is what’s called the Internet of Things.
+And the final slide. There is a series of goals set for us by the board of directors, and we essentially comply with it: every year, revenues are increasing by several percent, our profits are at 3% and, most importantly, we are trying to spend less money on our operating activities. So we will pay more dividends to the government, our major shareholder.
+Vladimir Putin: How much more?
+Sergei Kalugin: We should pay 45 billion rubles in dividends over three years, and the government will receive 68% of it.
+<…>
+Topics
+Science and innovation
+Publication status
+Published in sections: News, Transcripts
+Publication date: December 28, 2015, 15:15
+Text version
