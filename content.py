@@ -23,9 +23,13 @@ def setup_driver():
     if HEADLESS:
         options.add_argument("--headless=new")
     if PROXY:
-        options.add_argument(f"--proxy-server={FreeProxy(google=True, rand=True).get()}")
+        proxy = FreeProxy(google=True, rand=True).get()
+        options.add_argument(f"--proxy-server={proxy}")
+        print(f"Connecting to proxy {proxy}")
     if USER_AGENT:
-        options.add_argument(f"--user-agent={UserAgent().random}")
+        user_agent = UserAgent().random
+        options.add_argument(f"--user-agent={user_agent}")
+        print(f"With user agent {user_agent}")
     driver = webdriver.Chrome(options=options)
     driver.implicitly_wait(3)
     return driver
