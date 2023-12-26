@@ -1,14 +1,15 @@
 import os
 import time
+import sys
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from fake_useragent import UserAgent
 from fp.fp import FreeProxy
 
 FILENAME = "links7.txt"
-HEADLESS = True
-PROXY = True
-USER_AGENT = True
+HEADLESS = "-h" in sys.argv
+PROXY = "-p" in sys.argv
+USER_AGENT = "-u" in sys.argv
 
 
 def get_links(filename):
