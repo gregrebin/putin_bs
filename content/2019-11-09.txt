@@ -1,0 +1,57 @@
+Events
+Conference on artificial intelligence
+Vladimir Putin spoke at the plenary session of the Artificial Intelligence Journey conference.
+November 9, 2019
+18:45
+Moscow
+Artificial Intelligence Journey, the largest forum in Eastern Europe, was held in Moscow for the first time on November 8–9, 2019. It was attended by over 5,000 participants, including leading international and Russian experts in AI and data analysis, as well representatives of over 1,000 companies – leaders in developing and applying AI technologies in business processes.
+* * *
+Conference on artificial intelligence
+Sberbank CEO German Gref: Mr President, good afternoon. Thank you very much for finding a slot in the presidential schedule on a Saturday – we are perfectly aware of what it means – to devote time to the issue of technological development.
+See also
+Executive Order on the development of AI in Russia
+October 11, 2019
+We have been working for two days. Yesterday was a science day, we discussed scientific problems, the issues of future progress in artificial intelligence, whereas today is a practical day, and the representatives of six companies sitting here along with Deputy Prime Minister Maxim Akimov are the ones that are going to sign today an agreement on establishing a consortium on developing artificial intelligence on the basis of your Executive Order approving the National Strategy for the Development of Artificial Intelligence.
+I would like to ask you to say a few words on this topic.
+President of Russia Vladimir Putin: I will be brief, just a few words.
+I presume that the people who have gathered here are those who are either set to professionally pursue this kind of activities or are already doing that. Therefore, I will hardly be able to say something revolutionary or extraordinary – and I do not mean to do that today – to you, people who are working in this field.
+I agreed to come here at Mr Gref’s invitation and I would like to say a few words with only one objective in mind: to outline the attitude of the Russian state and the Russian leadership to this topic, which, without any exaggeration, has vital importance.
+I will leave you in peace and leave the room after my speech as I know that there will a signing of a consortium, which is very important and I would like to thank you, my colleagues who will be doing it.
+However, I thought it important to once again express the Russian leadership’s attitude to the topic you have gathered here to discuss.
+Artificial intelligence systems in and of themselves are a pinnacle, the essence of advanced technology. Please bear with me if I repeat myself or say trivial things because, let me reiterate, the objective of my speech is to show what the overall attitude of the Russian leadership is towards this topic.
+So, once again. Breakthrough achievements in natural sciences and the humanities, from mathematics and physics to psychology and linguistics – this is what artificial intelligence accumulates. It would be hard to find an example of a similar fusion, a fusion of very diverse knowledge and different disciplines.
+This is also a step into the unknown, just like the great geographical discoveries and space exploration. This is especially true about the so-called strong AI, which can become a foundation and a breakthrough for the whole civilisation.
+Such prospects are a fascinating and daring challenge for brave, talented and enthusiastic people like the ones who have gathered in this room, especially for young people, as they are not afraid of dreaming and working hard. We certainly have such people, and there are more and more of them. This is a very important change in our society overall.
+Today, hundreds of thousands – and I did not misspeak here – hundreds of thousands of schoolchildren, university students, engineers and researchers are excited about science, the idea of a technological breakthrough. They make up teams across the country, make important discoveries together, create their new solutions and make inventions.
+I know that conferences like this one are not organised only in Moscow – and would like to thank Sberbank for that – but also in other Russian cities and regions. This is an absolutely positive initiative aimed at establishing a community of like-minded people throughout the entire country.
+It is these people, their talent and energy that are the key success factor not only in AI but in all areas of technological progress.
+We must provide maximum freedom for creativity and business initiative, create the best conditions, a favourable and friendly space for everyone who launches a startup, takes risks, and introduces breakthrough products to the market. Such people must be confident that they are needed and that they will get support, that they can succeed, and succeed here, in Russia.
+Among others things, we must develop a convenient and effective mechanism of venture financing. And of course, barriers and legislative restrictions should be lifted in technology regulation.
+For example, we are all perfectly aware of the fact that the real food, fuel for AI is data, massive amounts of data. The better their quality, the greater their volume and completeness, the more effective are the algorithms and the more precise are the results.
+AI should be given more data and the unnecessary hurdles for using data should be consistently lifted. Naturally – I would like to draw you attention to this – naturally, citizens’ security, observance of their interests and rights must be guaranteed.
+We all certainly understand that the borderline here is very thin. We must find a balance between the maximum exposure of information and people’s rights to the protection of this information where they think their privacy must be ensured.
+In order to collect, store and process data it is necessary to build up cloud platforms, software and hardware systems and to expand access to them for Russian business, science and education. And the pivotal issue, of course, is opportunities for training, for acquiring new competences.
+I would like to repeat once again – AI systems can only be made and capitalised by intellectually well-trained people. We have to increase several-fold the volume and quality of training for programmers, mathematicians, computer linguists, data processing and deep learning specialists. Russian universities and colleges must be among the leaders in AI.
+We also have to raise entire generations of professionals who will be able to fully uncover and use AI technologies, build up industrial and management processes on the basis of advanced solutions, including platform solutions.
+It is not a question of narrow IT specialists. The ability to work with artificial intelligence, to know their way around in this area and in this environment must be a mandatory requirement for any profession – in the economy, business, education, healthcare, law enforcement, and of course, at all levels of government.
+Colleagues, I want you to understand, to hear and learn from me that we realise this and we will be striving towards it.
+AI technology has a tremendous potential of use in absolutely all fields and industries. Let me reiterate, it is vitally important that AI technologies make it possible to get rid of the inertia and sluggishness of the bureaucratic machine, to radically increase transparency and efficiency of administrative procedures, which is crucial for social stability since only in this case will the people see what the authorities are doing and what they are motivated by when taking certain decisions. It is a vitally important thing.
+It is necessary to direct these AI capabilities to solving the problems of each specific person and ultimately to change the quality and shape of the entire system of public administration. This is the most crucial condition for solving the large-scale tasks facing Russia.
+Friends, I would like to thank all those who contributed to the drafting and approval of the National Strategy for the Development of Artificial Intelligence. It outlines our tasks for the coming decade. It is important to act now as quickly as possible by pooling the efforts of the state, the professional community and business to transform plans into real solutions, innovations, competitive products for which there is demand, and our agencies, corporations and companies with state participation bear the greatest responsibility for this. I believe the key criterion of their effectiveness is their ability to ensure and enhance the technological viability of the nation.
+The weight and significance of the forthcoming work are exceptionally great. We must, and I am confident that we can become one of the global leaders in AI. This is a matter of our future, of Russia’s place in the world. And we can really achieve this as we have our national schools of mathematics, physics, other STEM disciplines, and the humanities.
+Comfortable and safe cities, accessible and high-quality healthcare and education, modern logistics and a reliable transportation system, exploration of space and the world ocean, and finally, the defence capability of our country – progress in all these areas depends on our advancement in AI now and in the nearest future. Neglecting these changes or rejecting them means eroding and wasting the potential we have. However powerful it is today, tomorrow it may rapidly become hopelessly obsolete and be zeroed out altogether.
+Let me repeat – artificial intelligence is a resource of colossal power. I have already said that those who will own it will take the lead and will acquire a huge competitive edge.
+There is good reason to say that the technology race that is already underway will be the toughest and most uncompromising in the history of our civilisation, and some even say that humankind is making its final invention. I do not know if this is true, there must be no final invention but there are evidently grounds to believe this, as well.
+No matter whether this is right or wrong, but AI is really becoming a new factor of social development and has an increasing effect on the labour market and on people’s everyday life.
+Currently, a discussion is unfolding in the world on the social aspects and consequences of AI use. This is obviously a very important issue. I suggest that the professional community and companies ponder establishing a code of ethic rules of interaction between man and AI.
+We must always remember: technology must not be invented for its own sake and our key goal is sustainable and balanced development, the growing quality of life and new opportunities for people, for citizens. Because people are the supreme value. And we shall proceed from that, as will the Russian state. so will the professional community, I hope, which deals and will deal with this most important topic, including the people who have convened here today.
+I would like to thank Sberbank for this initiative and all of you for responding to it and finding time to meet for this discussion.
+Thank you very much.
+Topics
+Science and innovation
+Persons
+Gref German
+Publication status
+Published in sections: News, Transcripts
+Publication date: November 9, 2019, 18:45
+Text version
