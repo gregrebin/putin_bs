@@ -68,4 +68,71 @@ Aliyev Ilham
 Publication status
 Published in sections: News, Transcripts
 Publication date: June 20, 2016, 16:00
+Text versionEvents
+Meeting with students taking part in International Collegiate Programming Contest (ICPC)
+Vladimir Putin met with students participating in the International Collegiate Programming Contest.
+June 20, 2016
+19:30
+St Petersburg
+1 of 5
+Vladimir Putin met with students taking part in the International Collegiate Programming Contest.
+The President congratulated the contest participants. One Russian team won the competition and four others were among the top ten. Mr Putin thanked the students and their teachers for their work and wished them success in future competitions and in their future work.
+Presidential aides Andrei Fursenko
+and Igor Shchegolev
+also took part in the meeting.
+* * *
+President of Russia Vladimir Putin: Good afternoon, friends.
+I would like to congratulate you on your latest victory at the International Collegiate Programming Contest. I believe, five of our teams were among the top ten, our team is one of the top five teams, and Russia takes away the gold for the fifth time in a row.
+This certainly reflects the quality of the training you receive from those directly involved in preparing the teams for the competition, and also indicates the level and quality of education in Russia, which is rising and has reached a high standard.
+I have no need to tell you just how important your field of activity is for any modern economy, including Russia’s. I have just spoken here in St Petersburg at the St Petersburg International Economic Forum and I said that the use of new technologies would change the global economy dramatically over the next decade or two, and the whole world along with it.
+Of course, programming can be used in many different new technology aspects and fields. I hope very much that you will be able to put your talents, knowledge and views to use primarily here in Russia. I know that we have not only St Petersburg State University, but also last year there was …what is that university called now?
+Response: St Petersburg ITMO University.
+Vladimir Putin: It was an institute before and now has become a university. I do not know what you had against the institute of mechanics and optics, but the quality is no less for the name change, so if it is a university now, so be it.
+What is important is the school that has developed, which you have not only preserved, but have taken its merits and developed it further. This is excellent and I congratulate you on this. I would like to congratulate you, and St Petersburg State University, and our victors, of course. I wish you all success in the next competitions and in your future professions.
+Andrei Lopatin, Coach of the St Petersburg State University team: I would like to tell you about our competitions. I think you will find this interesting.
+At the dawn of computers and software engineering, people started to compete to determine who is the best. The first programming contest was held in 1970. They were not called international contests until 1977, when the Association for Computing Machinery (ACM) held the first competition. Initially, the contest included mainly teams from the United States and Canada, and countries like that, but students from Australia, New Zealand and Europe subsequently joined the competition.
+Vladimir Putin: I like your phrase, “countries like that.”
+Andrei Lopatin: Russian teams first took part in the contest in 1995. In 2000, we won the competition. We try to maintain our reputation. Russian teams won 10 competitions over the past 17 years, from 2000 to 2016.
+Nikolai Kropachev, Rector of St Petersburg State University: They won 11 competitions. Teams from St Petersburg won ten competitions, but overall, Russian teams won 11 times. Don’t forget the team from Saratov.
+Andrei Lopatin: I won’t, of course. So, we will try to maintain our reputation in future too.
+I can explain why these contests are so popular. The thing is that a huge number of students, over 40,000 students from more than 100 countries take part. It was not like this at the beginning when there were fewer teams, but the number of participants grew with every passing year, with more and more people becoming involved.
+The competition is very tough; it does not slacken until the last minute, which makes it a demanding sport. The outcome is often decided at the last minute. This year we were only seven penalty minutes ahead of the team from Shanghai.
+Vladimir Putin: Was it the Chinese team that came in second?
+Andrei Lopatin: Yes, the team from Shanghai.
+Vladimir Putin: What about Harvard?
+Andrei Lopatin: The Harvard team won third place.
+Nikolai Kropachyov: We were one problem ahead of them.
+Andrei Lopatin: Yes, we solved more problems than the Harvard team. Actually, our team was close to solving the 12th problem too, but they ran out of time. We could have been ahead of Shanghai in the number of problems solved if we had more time.
+Anyway, our students also worked faster as a team. They only had one computer per three students, which means you must be able to find common ground with others and find the right words. This is very important. The psychological pressure is immense, just as the challenge. You have to work in a super-stressful situation. But we always prove that we are the best. I am very proud of our students.
+Vladimir Putin: Where were the World Finals held this year?
+Andrei Lopatin: They were held in Phuket, Thailand. The finals are held in a different place every year.
+Many companies are closely watching this contest. Now they will be fighting for our students.
+Vladimir Putin: Do you work at VKontakte?
+Andrei Lopatin: Yes, I also work at VKontakte.
+Vladimir Putin: But your primary employer is St Petersburg State University?
+Andrei Lopatin: Yes, and you can see the result.
+Vladimir Putin: Everyone can see it, not just I.
+Andrei Stankevich (St Petersburg ITMO University): Mr President, first of all, I would like to note that over the past 17 years Russian teams have won eleven titles and St Petersburg has won ten, including the last five championships. This has not gone unnoticed, and other countries, other teams, are watching out for us. At the championship’s opening ceremony, a list of previous winners is always displayed, with St Petersburg all over the last image…
+What I want to say is that a career does not necessarily end with the competition, this is only the beginning. There are many examples, say, Andrei Lopatin, my colleague, who was among the founders of the VKontakte social network.
+Many former champions, or should I say winners in previous years, are now at the helm of major companies in St Petersburg or head the local offices of foreign companies as CTOs. Some opt for an academic career. For example, Maxim Buzdalov is one champion. He works at our university and has published over 50 papers in serious academic journals. This goes to say that this competition serves as an impetus for further professional and academic work. Therefore, it is always a pleasure when the competition is noticed and our success is recognised.
+Vladimir Putin: That is great. Do the teams have captains or is everyone equal?
+Igor Pyshkin, member of the St Petersburg State University team: It depends on the team. Overall, there are no strict divisions. We try to operate on an equal footing, but at a certain point, it is not uncommon that somebody takes the lead.
+Vladimir Putin: I can see that.
+Nikolai Kropachyov: Mr President, every time anyone asks the team this question, he is the one to reply, saying we do not have a captain. The others keep quiet.
+Stanislav Yershov, St Petersburg State University team member: I do not think we have a captain either.
+Vladimir Putin: So you have no captain.
+What can you tell me about your impressions of this competition?
+Stanislav Yershov: The victory really came as a surprise to me. I mean, we knew that we had many strong rivals, and we did not believe we could win until the last minute, when we received the awards.
+Vladimir Putin: How would you describe the competition?
+Alexei Gordeyev, St Petersburg State University team member: We did not think about it much during the competition. At first, we solved our problems quickly and gained a lead, then we got a bit stuck; but at the very end, during the last 10 minutes, we submitted two problems almost simultaneously, and this is when we knew that we definitely were among the top five.
+As soon as the contest ended, we knew that our rival was the Shanghai team. They ran to ask about their results, added them up and saw that we would probably win. We suspected that we would win the finals, but we did not know for sure until the awards ceremony.
+Vladimir Putin: How is the winner determined? Who decides this?
+Anton Kovsharov, St Petersburg ITMO University team member: In fact, the last hour of the contest is closed to the audience. The results are announced later, so you can see the gradual progress of the teams and what each of them did in the last hour of the contest.
+In other words, the audience can actually observe what is going on during the first four hours, while the final hour is only revealed at the closing ceremony. In other words, you can only see who won after the results are released.
+<…>
+Topics
+Professional training
+Publication status
+Published in sections: News, Transcripts
+Publication date: June 20, 2016, 19:30
 Text version
