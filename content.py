@@ -6,10 +6,11 @@ from selenium.webdriver.common.by import By
 from fake_useragent import UserAgent
 from fp.fp import FreeProxy
 
-FILENAME = "links7.txt"
+FILENAME = "links8.txt"
+USER_AGENT = "-u" in sys.argv
 HEADLESS = "-h" in sys.argv
 PROXY = "-p" in sys.argv
-USER_AGENT = "-u" in sys.argv
+CUSTOM_PROXY = list(filter(lambda arg: arg.startswith("-p="), sys.argv))
 
 
 def get_links(filename):
@@ -23,7 +24,11 @@ def setup_driver():
     options = webdriver.ChromeOptions()
     if HEADLESS:
         options.add_argument("--headless=new")
-    if PROXY:
+    if CUSTOM_PROXY:
+        proxy = CUSTOM_PROXY[0].removeprefix("-p=")
+        options.add_argument(f"--proxy-server={proxy}")
+        print(f"Connecting to proxy {proxy}")
+    elif PROXY:
         proxy = FreeProxy(google=True, rand=True).get()
         options.add_argument(f"--proxy-server={proxy}")
         print(f"Connecting to proxy {proxy}")
