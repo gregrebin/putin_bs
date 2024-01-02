@@ -1,0 +1,49 @@
+Events
+Meeting with CEO of Rostec State Corporation Sergei Chemezov
+Mr Chemezov presented the corporation’s new high-tech production programme to the President, gave an account of Rostec results over its 8 years of work, and outlined the corporation’s new strategy.
+December 4, 2015
+16:20
+The Kremlin, Moscow
+4 of 4
+With CEO of Rostec State Corporation Sergei Chemezov.
+President of Russia Vladimir Putin: Good afternoon, Mr Chemezov. What is it you want to show me?
+CEO of Rostec State Corporation Sergei Chemezov
+: I want to show you some examples of our high-tech civilian-sector goods. Of course, I cannot bring everything here, because some of the goods are rather large, the driverless KamAZ truck, for example. I hope we will get the chance to take a ride in the KamAZ and test it live. We have a microscope, a very large one, one of the most powerful microscopes in the world. We completed work on it only just recently.
+Vladimir Putin: So, what have you brought along now?
+Sergei Chemezov: Let’s start with this – it’s a YotaPad-based textbook. This is fully our product, the architecture is entirely Russian, though some of the components might be foreign-made, of course, from Southeast Asia, for the most part, to be more precise. The screen, by the way, was made at one of the enterprises set up by RUSNANO. This is their product.
+It looks like this: Here, you have the colour display, which will show pictures, graphics and so on, and here is the black and white display for text, for reading. It doesn’t damage the eyes. What’s more, you can write on it and use it as a notebook.
+The textbook does not have internet access. It is designed to work within a school or, say, a city. A school installs a server and uploads certified textbooks that have received the Education and Science Ministry’s approval, and then our schoolchildren will use these textbooks.
+They can also be used in distance education, for example, by children in rural areas where highly qualified teachers are lacking. We are moving away from printed material. Children have to carry an enormous number of textbooks about at the moment. My son goes about with probably ten kilos of books in his bag, but now, they will have one gadget that can cover all needs and serve as a notebook too.
+There’s also this. Everything began with the Ratnik programme. As part of that programme, we created this data transmitter for the Defence Ministry. Soldiers attach it to their body and it registers their physical state. The information is transmitted to the commander’s tablet. If a soldier is wounded or unwell, if something happens or, God forbid, a soldier is killed, we can establish his whereabouts using the GLONASS system.
+We then started looking at the possible civilian applications this device could have. It could be used in the form of a watch, for example. We have already ordered a more modern version of the device and will propose it for use in civilian fields, in particular, for patients who have just returned home following a hospital stay.
+Vladimir Putin: So doctors can monitor their condition constantly.
+Sergei Chemezov: Yes, the device measures the patient’s heartbeat and pulse. It sends a signal reminding the patient when to take medicine. Furthermore, if the patient’s condition turns critical, say, it looks like a stroke is about to happen, the doctor will see this 15 minutes earlier and will have time to send an ambulance to the patient. If the patient’s condition takes a turn for the worse, the patient can press a button and send a signal either to relatives or to the hospital.
+Pilots could also use the device. There have been cases, after all, when a pilot could die from cardiovascular diseases. Cardiovascular diseases are the second-biggest cause of death in Russia today, and this device could help to bring the rate down.
+Vladimir Putin: It would make a swift response possible, anyway.
+Sergei Chemezov: Yes, a swift response and quickest possible provision of medical help.
+Vladimir Putin: And what is this?
+Sergei Chemezov: This is a computer. It can actually replace a big computer. It’s one of the smallest computers in the world. You can connect it to any display and work with this computer.
+This is also a computer, a portable one. You can store your secret files on it; it is protected from all kinds of viruses. You can connect it to any display, even to a television. All you need is a mouse. If you have a touchscreen display, you don’t even need a mouse or a keyboard. If you connect the computer using a cable, it works as if from an extra battery. If you connect several screens, they will all work at once. Essentially, it’s a mini-computer, but with capacity every bit as good as any full-size computer.
+Then there’s this interesting device. It’s an encoder. We created it for the intelligence services and the federal authorities. Later, we started working with the FSB [Federal Security Service] on developing it for commercial use. It works through Yotaphone. You connect it using Bluetooth and call the number you need on Yotaphone, but the phone you call needs to be equipped with the same decoding device. You then talk on the phone. The phone can be up to 10 metres away, on a table, in your bag, your pocket, wherever.
+Vladimir Putin: So, it transforms speech in such a way that you can’t do anything with it without the decoder?
+Sergei Chemezov: That’s right, you need the decoder, which is currently going through the certification process with the FSB.
+Vladimir Putin: And then it will go on sale?
+Sergei Chemezov: For now, we are making the device for the intelligence services and state authorities, and then we will work together with the FSB to develop it for commercial use and put it freely on the market. People could use it if they want to avoid having their competitors eavesdrop on them, for example.
+Vladimir Putin: Yes, there could be uses in business. How much will this plaything cost?
+Sergei Chemezov: I think it will be around $150–200.
+Vladimir Putin: We live in Russia…
+Sergei Chemezov: In rubles, that would be about 12,000–15,000.
+Vladimir Putin: That’s not cheap.
+Sergei Chemezov: If it goes into mass production, it will be cheaper, of course. For now, we expect the potential market to be not so big, and so the price is still high, unfortunately. We will work on bringing it down.
+Rostec recently celebrated its eighth anniversary. This isn’t a round date, and not such a big number, but still, we have accomplished a lot over this time. Let me give a few figures. In 2009, when we first presented the consolidated report for the companies that come under our corporation, our earnings came to just over 500 billion rubles, and our losses to 61 billion. This year, with only days left before the year ends, we forecast earnings of 1.2 trillion rubles, and we expect a profit of around 40 billion. We are paying around 150 billion in various taxes. Our employees earn an average wage of around 40,000 rubles. Overall, these are quite good figures.
+We recently approved a new strategy and will submit it to the supervisory board in the coming days. This strategy sets the target of 16–17-percent annual growth through to 2025. This is practically three times higher than [forecast] GDP growth. You said that Russia needs companies that grow faster than our GDP, and we have set ourselves the goal of having our corporation’s growth outpace GDP growth threefold. We hope to be among the world’s ten-biggest corporations by 2025.
+<…>
+Topics
+Industry
+Science and innovation
+Persons
+Chemezov Sergei
+Publication status
+Published in sections: News, Transcripts
+Publication date: December 4, 2015, 16:20
+Text version

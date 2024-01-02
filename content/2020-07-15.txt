@@ -1,0 +1,55 @@
+Events
+Meeting with Head of the Federal Customs Service Vladimir Bulavin
+The Head of the Federal Customs Service briefed the President on the service’s performance.
+July 15, 2020
+13:50
+The Kremlin, Moscow
+4 of 4
+Meeting with Head of the Federal Customs Service Vladimir Bulavin.
+President of Russia Vladimir Putin: Good afternoon, Mr Bulavin. Let us begin with transfers to the federal budget. I can see from the documents that you have transferred more than planned in the first quarter, 101.7 percent.
+Head of the Federal Customs Service Vladimir Bulavin: Yes, nearly 102 percent.
+Vladimir Putin: Do you expect any adjustments over the half-year period?
+Vladimir Bulavin: Yes, we do. The forecast for the first six months was 2.069 trillion rubles, but we believe we will only be able to transfer 2.042 trillion rubles. Since trade has decreased by 18 percent and the number of tax returns by 4.4 percent, it is logical that customs payments have dwindled as well, primarily export duties, in particular due to the drop in prices and export volumes of oil, petrochemicals and hydrocarbons.
+Our year-end target is 5.48 trillion rubles. Substantial support is being given to the national economy, which is why we expect foreign trade to grow. There are many months to December yet, and it would be premature to talk about precise figures, but we will do our best to achieve the target that we were set.
+The trend for the past month was quite good, especially considering that import duties have been transferred ahead of time even though the volume of imported goods has decreased. Nevertheless, we are optimistic and expect improvements, because the borders will reopen and trade will increase. At the same time, the measures we have taken in the past few years to reform the customs agencies and customs administration, which I wanted to tell you about today, should have a positive impact on the final figure for customs transfers.
+Vladimir Putin: Have you prepared a development strategy?
+Vladimir Bulavin: Yes, we have.
+Mr President, I would like to add the following. In 2017, an important decision was made in accordance with which we reformed the customs agencies and the customs administration between 2018 and 2020.
+We can already sum up the first results now. We have established 16 centres for e-declarations. Eight of them are operating at the existing customs offices, and the other eight have opened at the new electronic customs clearance offices. As of today, these centres record 84 percent of all declarations. We plan to increase this figure to 95 percent by the end of the year.
+We have also overhauled the capabilities of the customs terminals and stations. Since customs clearance has been transferred to electronic customs clearance centres, our customs terminals have become full-fledged customs offices and checkpoints. We intend to continue increasing the efficiency of customs clearance throughout the entire customs network.
+I would like to add that we have also made major changes to the system of governance of the customs agencies. The number of customs offices has decreased from 84 to 66. As per your instructions, the released wage funds have been allocated for payments to the customs inspectors working at the e-declaration centres. Their wages have increased to some 60,000 rubles or even more if we take wage bonuses into account.
+We have streamlined customs payments as well. While in the past, foreign trade operators had to open a settlement account at every customs agency in the area of their operation, today they can have only one settlement account from which all customs payments are transferred.
+Vladimir Putin: The system has become transparent.
+Vladimir Bulavin: Exactly.
+We have computerised part of the customs administration system. This year we have made 1.9 million e-declarations, registering 1.4 million automatically and issuing 409,000 e-declarations. The process is really quick; it takes only four minutes and is more objective and impartial.
+It should be said that we are systematically building a non-contact relationship with businesses. They can file a declaration through a remote access mechanism, and this declaration will be automatically registered and automatically issued. There have been 409,000 such declarations this year alone, which means that businesses have no need to come into contact, personal contact…
+Vladimir Putin: With the customs personnel.
+Vladimir Bulavin: … with the customs personnel.
+We think that the reform goals we set ourselves have been achieved. First of all, the customs agencies are more controllable. The second point is that, decision-making uniformity has been enhanced considerably. I mean, it was extremely difficult to control customs clearance points from a single centre, given the distances in this country, when we had 600 of them. Now we have just 16.
+Besides this, we have broken off personal contacts between issuing inspectors and filers, thus substantially reducing corruption risks. This has made it possible to ensure completeness of customs payments. Even with identical amounts of declaring, we expect a rise in customs payments at the electronic declaration centres that have functioned for more than a year.
+The IT proficiency and digitalisation level we have achieved enabled us to draft the Development Strategy of the Customs Service Through to 2030, which was approved by the Government on May 23 of this year. We can see the presentation of this strategy starting from page five. In effect, we are transiting from e-customs that we have today to smart customs that we will have in 2030. We have taught the “digit” to process and store information; our job today is to teach the “digit” to solve nonlinear systems of equations in a multidimensional space and adopt legally valid decisions. In effect, the automatic issue of declarations I have reported about is a legally valid decision. We just want to fill our digital technologies, where we can, with elements of artificial intelligence.
+Digital platforms and the digital format in general will connect the customs and transport agencies, businesses and our foreign partners into one closed information network. We believe that the more digital the customs system becomes, the more transparent it will be when it comes to understanding who makes the decisions and on what grounds, and the customs procedure as a whole.
+The more transparent the system, the higher the level of trust between foreign trade operators. In this context, we will need to work with our businesses, transport agencies and, most importantly, our foreign partners. We have conducted many experiments together with them, and now we must make active use of the technology we have created during these experiments.
+Vladimir Putin: I see.
+Vladimir Bulavin: It is a complicated process, but we are moving closer to our objective. For example, one of the projects we will launch under our Strategy 2030 stipulates pre-shipment inspections or one-time customs clearance.
+We have carried out this experiment with our Chinese colleagues. In other words, we have an office in China which checks a container of its choice for compliance with the customs declaration and records its conclusions, after which the container in question freely crosses the border. We let it go unless there are any additional customs risks.
+I would like to add that our development strategy also stipulates creating a smart checkpoint. We have coordinated our views on restructuring our customs clearance system. We would like information from all monitoring and checking equipment to be accumulated on a single platform, which the customs agencies and other controlling and inspection authorities, as well as transport operators will use. Ideally, this will create conditions for unimpeded clearance through checkpoints.
+We have introduced a system of advance declaration of cargo for all types of transport, so that we can check this information for potential customs risks while the cargo is en route. If the transit declaration does not differ from the advance declaration, we can let the cargo through the checkpoint.
+In accordance with your decision, one of our projects provides for establishing the main data processing centre. We have launched it in Tver; the project is now at the stage of designing the communications network, because it will require extremely complicated communications. We plan to complete the construction of the data processing centre and purchase the necessary equipment in 2021–2022. This is necessary for data mirroring, that is, the copying of data from one location to a storage device in real time. Why do we need this? What is the distinguishing feature of our information systems? They must work 24/7. This explains the high security requirements, and we also need to store an exact copy of data for the speedy recovery of critical data after a disaster.
+We have also stipulated the development of information exchanges with our foreign colleagues, primarily in the fields of risk management and customs valuation. Customs valuation is the key sphere of our relations with businesses. I would like to inform you that we have moved forward in this area together with our Chinese colleagues, including thanks to your support, and in terms of individual declarations, with respect to which we make inquiries, we receive replies from them. We have even used this information in court, both when we initiated suits and when we were sued.
+We believe that by 2030, we will have a fundamentally new customs service, a rapidly changing, flexible and intellectually saturated system, which will be able to process large volumes of information. But the main objective of the digital platforms is, as I have already mentioned, to connect our customs agencies, foreign partners and transport operators. In my opinion, this will greatly accelerate customs clearance operations and make the customs procedures simple, convenient and quick for businesses.
+At the same time, we must serve national interests by collecting absolutely all customs payments and ensure national security. This is what we will be striving for.
+Vladimir Putin: Very well.
+Mr Bulavin, you have indeed accomplished a great deal. The quality of our customs service is changing, but there is much more to do by 2030. Indeed, the first steps have been made in the right direction. I wish you good luck.
+Vladimir Bulavin: Thank you.
+Vladimir Putin: I expect you to achieve all your targets.
+Vladimir Bulavin: We will do our best.
+<…>
+Topics
+Customs
+Persons
+Bulavin Vladimir
+Publication status
+Published in sections: News, Transcripts
+Publication date: July 15, 2020, 13:50
+Text version
